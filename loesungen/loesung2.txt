@@ -1,0 +1,43 @@
+1. Welche Urkunden hat der S...CAllg.36. Welche Bedeutung hat dies...CSchffz.
+2. Welchen Abstand müssen Si...AAllg.37. Welche Bedeutung hat dies...BSchffz.
+3. Welche Fahrzeuge sind 'st...CAllg.38. Welche Bedeutung hat dies...CSchffz.
+4. Welche Fahrgeschwindigkei...CAllg.39. Welche Bedeutung hat dies...CSchffz.
+5. Welche Staaten grenzen he...CAllg.40. Welche Bedeutung hat dies...ASchffz.
+6. Was verstehen Sie unter e...BAllg.41. Welche Bedeutung hat dies...ASchffz.
+7. Welche Behörden sind fü...CAllg.42. Welche Bedeutung hat dies...BSchffz.
+8. Wie groß ist die Fläche d...CAllg.43. Welche Bedeutung hat dies...ASchffz.
+9. Wie tief ist die tiefst...CAllg.44. Was bezeichnet dieses Sch...CSchffz.
+10. Welche Vorschriften müsse...CAllg.45. Welchen Schutz genießen d...CSchffz.
+11. Wie heißt die Verbindun...AAllg.46. Wer muss ausweichen (weiß...ASeem.
+12. Wer erteilt die Kennzeich...CAllg.47. Wer muss ausweichen?CSeem.
+13. Wo muss das Warnzeichen W...AAllg.48. Wie wird überholt und was...CSeem.
+14. Welche Wasserfahrzeuge dü...CAllg.49. Wie hat sich ein Motorboo...ASeem.
+15. Kann ein Schifferpatent e...CAllg.50. Wie hat sich ein Motorboo...CSeem.
+16. Welche Fahrzeuge unterlie...BAllg.51. Welche Fahrzeuge müssen V...BSeem.
+17. Wann müssen zugelassene F...CAllg.52. Wo befindet sich der amtl...BSeem.
+18. Wann kann die zuständig...AAllg.53. Wie viel lichte Durchfahr...ASeem.
+19. Bei einem Schiff mit rech...AAllg.54. Welchen Schutz genießen d...ASeem.
+20. Es ertönt der Ruf 'Mensch...AAllg.55. Wer hat Wegerecht?ASeem.
+21. Nennen Sie die Sichtweite...CSchallz.56. Wer hat Wegerecht?CSeem.
+22. Nennen Sie die Sichtweite...ASchallz.57. Welches Fahrzeug hat Wege...ASeem.
+23. Wie sind stillliegende Fa...CSchallz.58. Wie verhalten sich Gleitb...CNav.
+24. Wie ist ein Vorrangschiff...ASchallz.59. Auf welchen Vergnügungsfa...ANav.
+25. Auf der Bergfahrt im Fach...ASchallz.60. Wozu wird ein Palstek ver...BNav.
+26. Sie sehen voraus mehrer...CSchallz.61. Wie lang müssen Sie die A...BNav.
+27. Ein entgegenkommendes Sch...CSchallz.62. Wie verhalten Sie sich be...ANav.
+28. Sie wollen mit Ihrem Verg...CSchallz.63. Wo sollen Gasbehälter (Fl...ANav.
+29. Welche Bedeutung haben vi...CSchallz.64. Wann dürfen Sie nach Koll...ANav.
+30. Wie lautet das Brückendur...ASchallz.65. Welche Sicherheitsmaßnahm...ANav.
+31. Welche Bedeutung hat dies...CSchffz.66. Welche Sonderregelungen g...ANav.
+32. Welche Bedeutung hat dies...BSchffz.67. Welche Anforderungen gelt...ANav.
+33. Welche Bedeutung hat dies...ASchffz.68. Wie muss sich ein Schiffs...AFahrr.
+34. Welche Bedeutung hat dies...ASchffz.69. Wem müssen Sie eine Gewäs...BFahrr.
+35. Welche Bedeutung hat dies...ASchffz.70. Wo werden die Distanzen (...AFahrr.
+71. Welche Hilfsmittel sind f...AFahrr.79. Nennen Sie die Anzahl der...AFahrr.
+72. Nennen Sie die am Bodense...AFahrr.80. Wie hoch ist die Höchstge...CRhein
+73. Bei welcher Gradzahl lieg...CFahrr.81. Nachts treffen Sie auf de...BRhein
+74. Was verstehen Sie unter O...AFahrr.82. Wie haben sich Vergnügung...ARhein
+75. Was ist eine Deviationsta...BFahrr.83. Wie haben sich Vergnügung...BRhein
+76. In welchem Seeteil weht d...BFahrr.84. Sie begegnen mit Ihrem Ve...CRhein
+77. Wann treten insbesonder...BFahrr.85. Wer hat beim Zusammentref...CRhein
+78. Wie hat sich ein Schiffsf...BFahrr.86. Errechnen Sie die licht...BRhein
