@@ -1,43 +1,86 @@
-1. Welche allgemeinen Pflich...CAllg.36. Welche Bedeutung hat dies...ASchffz.
-2. Wie hat sich ein Schiffsf...CAllg.37. Welche Bedeutung hat dies...CSchffz.
-3. Welche Fahrzeuge sind 'fa...AAllg.38. Welche Bedeutung hat dies...CSchffz.
-4. Welche Pflichten zur Hilf...CAllg.39. Welche Bedeutung hat dies...ASchffz.
-5. Welche Regeln müssen beim...AAllg.40. Welche Bedeutung hat dies...CSchffz.
-6. Was verstehen Sie unter e...CAllg.41. Welche Bedeutung hat dies...CSchffz.
-7. Welche grundsätzlichen Zo...BAllg.42. Welche Bedeutung hat dies...CSchffz.
-8. Wie heißen die drei größt...CAllg.43. Welche Bedeutung hat dies...ASchffz.
-9. Wie tief ist die tiefst...CAllg.44. Welche Bedeutung hat dies...ASchffz.
-10. Wie sind Naturschutzgebie...AAllg.45. Worauf muss ein Schiffsfü...CSchffz.
-11. In welchen besonders geke...CAllg.46. Wer darf zuerst in den Ha...CSeem.
-12. Welche Fahrzeuge müssen m...BAllg.47. Was ist zu beachten, wenn...ASeem.
-13. Wie sind Fahrzeuge mit ei...BAllg.48. Wer muss ausweichen?BSeem.
-14. Sie sind Besitzer eines E...AAllg.49. Welchen Sicherheitsabstan...CSeem.
-15. Kann ein Schifferpatent e...CAllg.50. Wie hat sich ein Motorboo...ASeem.
-16. Welches Mindestalter is...AAllg.51. Wie hat sich ein Motorboo...CSeem.
-17. Welche Anforderungen hins...AAllg.52. Wie sieht die Befeuerun...ASeem.
-18. Was gilt für Fahrzeuge mi...AAllg.53. Nennen Sie die Untiefe be...BSeem.
-19. Sind die Drehkreise bei S...AAllg.54. Wie verläuft die Nummerie...ASeem.
-20. Ihr Boot hat eine Motoren...BAllg.55. Wann darf überholt werden...ASeem.
-21. Nennen Sie die Sichtweite...ASchallz.56. Wer hat Wegerecht?BSeem.
-22. Nennen Sie die Sichtweite...ASchallz.57. Wer hat Wegerecht?ASeem.
-23. Welche Erleichterungen fü...CSchallz.58. Welches ist der wesentlic...CNav.
-24. Welche Form und Mindestgr...ASchallz.59. Wann müssen automatisch...BNav.
-25. Auf Ihrem Fahrkurs sehe...BSchallz.60. Was bezeichnet man als Ta...CNav.
-26. Ist das Tauchen im markie...CSchallz.61. Wozu wird der Kreuzknoten...CNav.
-27. Wann muss ein Fahrzeug in...CSchallz.62. Wozu wird der Achtknote...ANav.
-28. Ein Fahrzeug kommt Ihre...CSchallz.63. Was ist beim Ausbrechen e...ANav.
-29. An welchen Signalen könne...ASchallz.64. Welche besonderen Gefahre...BNav.
-30. Wie lange dauert ein lang...ASchallz.65. Wie verhalten Sie sich, w...CNav.
-31. Welche Bedeutung hat dies...ASchffz.66. Mit welchen motorisierten...ANav.
-32. Welche Bedeutung hat dies...ASchffz.67. Wie muss sich ein Schiffs...ANav.
-33. Welche Bedeutung hat dies...ASchffz.68. Wie hat sich ein Schiffsf...AFahrr.
-34. Welche Bedeutung hat dies...CSchffz.69. Wie darf ein Boot im Wass...AFahrr.
-35. Welche Bedeutung hat dies...ASchffz.70. Wie viel Zentimeter auf d...CFahrr.
-71. Wodurch wird die Magnetko...AFahrr.79. Was tun Sie, wenn ein Mit...AFahrr.
-72. Nennen Sie die gebräuchli...AFahrr.80. Welche Fahrregeln sind be...CRhein
-73. Woran können Sie das Nahe...CFahrr.81. Wie haben sich Motorboote...ARhein
-74. Wann treten insbesonder...BFahrr.82. Welchen Mindestabstand ha...CRhein
-75. Welche Windgeschwindigkei...AFahrr.83. Was haben querende Vergnü...ARhein
-76. Sie beobachten eine heran...AFahrr.84. Dürfen Sie auf dem Rhei...CRhein
-77. Welche Seenotsignalmittel...AFahrr.85. Sie wollen mit Ihrem Verg...ARhein
-78. Was sollen Sie als Schiff...BFahrr.86. Errechnen Sie den Abstand...BRhein
+1. Welche allgemeinen Pflich... C Allg.
+2. Wie hat sich ein Schiffsf... C Allg.
+3. Welche Fahrzeuge sind 'fa... A Allg.
+4. Welche Pflichten zur Hilf... C Allg.
+5. Welche Regeln müssen beim... A Allg.
+6. Was verstehen Sie unter e... C Allg.
+7. Welche grundsätzlichen Zo... B Allg.
+8. Wie heißen die drei größt... C Allg.
+9. Wie tief ist die tiefst... C Allg.
+10. Wie sind Naturschutzgebie... A Allg.
+11. In welchen besonders geke... C Allg.
+12. Welche Fahrzeuge müssen m... B Allg.
+13. Wie sind Fahrzeuge mit ei... B Allg.
+14. Sie sind Besitzer eines E... A Allg.
+15. Kann ein Schifferpatent e... C Allg.
+16. Welches Mindestalter is... A Allg.
+17. Welche Anforderungen hins... A Allg.
+18. Was gilt für Fahrzeuge mi... A Allg.
+19. Sind die Drehkreise bei S... A Allg.
+20. Ihr Boot hat eine Motoren... B Allg.
+21. Nennen Sie die Sichtweite... A Schallz.
+22. Nennen Sie die Sichtweite... A Schallz.
+23. Welche Erleichterungen fü... C Schallz.
+24. Welche Form und Mindestgr... A Schallz.
+25. Auf Ihrem Fahrkurs sehe... B Schallz.
+26. Ist das Tauchen im markie... C Schallz.
+27. Wann muss ein Fahrzeug in... C Schallz.
+28. Ein Fahrzeug kommt Ihre... C Schallz.
+29. An welchen Signalen könne... A Schallz.
+30. Wie lange dauert ein lang... A Schallz.
+31. Welche Bedeutung hat dies... A Schffz.
+32. Welche Bedeutung hat dies... A Schffz.
+33. Welche Bedeutung hat dies... A Schffz.
+34. Welche Bedeutung hat dies... C Schffz.
+35. Welche Bedeutung hat dies... A Schffz.
+36. Welche Bedeutung hat dies... A Schffz.
+37. Welche Bedeutung hat dies... C Schffz.
+38. Welche Bedeutung hat dies... C Schffz.
+39. Welche Bedeutung hat dies... A Schffz.
+40. Welche Bedeutung hat dies... C Schffz.
+41. Welche Bedeutung hat dies... C Schffz.
+42. Welche Bedeutung hat dies... C Schffz.
+43. Welche Bedeutung hat dies... A Schffz.
+44. Welche Bedeutung hat dies... A Schffz.
+45. Worauf muss ein Schiffsfü... C Schffz.
+46. Wer darf zuerst in den Ha... C Seem.
+47. Was ist zu beachten, wenn... A Seem.
+48. Wer muss ausweichen? B Seem.
+49. Welchen Sicherheitsabstan... C Seem.
+50. Wie hat sich ein Motorboo... A Seem.
+51. Wie hat sich ein Motorboo... C Seem.
+52. Wie sieht die Befeuerun... A Seem.
+53. Nennen Sie die Untiefe be... B Seem.
+54. Wie verläuft die Nummerie... A Seem.
+55. Wann darf überholt werden... A Seem.
+56. Wer hat Wegerecht? B Seem.
+57. Wer hat Wegerecht? A Seem.
+58. Welches ist der wesentlic... C Nav.
+59. Wann müssen automatisch... B Nav.
+60. Was bezeichnet man als Ta... C Nav.
+61. Wozu wird der Kreuzknoten... C Nav.
+62. Wozu wird der Achtknote... A Nav.
+63. Was ist beim Ausbrechen e... A Nav.
+64. Welche besonderen Gefahre... B Nav.
+65. Wie verhalten Sie sich, w... C Nav.
+66. Mit welchen motorisierten... A Nav.
+67. Wie muss sich ein Schiffs... A Nav.
+68. Wie hat sich ein Schiffsf... A Fahrr.
+69. Wie darf ein Boot im Wass... A Fahrr.
+70. Wie viel Zentimeter auf d... C Fahrr.
+71. Wodurch wird die Magnetko... A Fahrr.
+72. Nennen Sie die gebräuchli... A Fahrr.
+73. Woran können Sie das Nahe... C Fahrr.
+74. Wann treten insbesonder... B Fahrr.
+75. Welche Windgeschwindigkei... A Fahrr.
+76. Sie beobachten eine heran... A Fahrr.
+77. Welche Seenotsignalmittel... A Fahrr.
+78. Was sollen Sie als Schiff... B Fahrr.
+79. Was tun Sie, wenn ein Mit... A Fahrr.
+80. Welche Fahrregeln sind be... C Rhein
+81. Wie haben sich Motorboote... A Rhein
+82. Welchen Mindestabstand ha... C Rhein
+83. Was haben querende Vergnü... A Rhein
+84. Dürfen Sie auf dem Rhei... C Rhein
+85. Sie wollen mit Ihrem Verg... A Rhein
+86. Errechnen Sie den Abstand... B Rhein

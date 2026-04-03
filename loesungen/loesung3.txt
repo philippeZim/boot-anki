@@ -1,0 +1,86 @@
+1. Dürfen Sie von den Vorsch... A Allg.
+2. Was müssen Sie beim Reini... C Allg.
+3. Innerhalb welcher Frist i... C Allg.
+4. Welche Geschwindigkeitsbe... A Allg.
+5. Wo gibt es auf dem Oberse... A Allg.
+6. Welche besonderen Aufgabe... A Allg.
+7. Welche in den Bodenseeanl... B Allg.
+8. Wie groß ist die Entfernu... C Allg.
+9. Wie groß ist die Entfernu... A Allg.
+10. Welchen Mindestabstand mü... A Allg.
+11. Welche Aufgaben und Pflic... A Allg.
+12. Wie hoch müssen die Kennz... C Allg.
+13. Dürfen sogenannte Tauchsc... A Allg.
+14. Dürfen Sie mit einem Schi... B Allg.
+15. Welches Mindestalter is... A Allg.
+16. Wann erlischt die Zulassu... A Allg.
+17. Welchen Wert darf das Bet... C Allg.
+18. Ab welcher Bootslänge mus... B Allg.
+19. Bei einem Schiff mit link... B Allg.
+20. Wie sollten Sie Ihr Boo... A Allg.
+21. Nennen Sie die Sichtweite... C Schallz.
+22. Nennen Sie die Sichtweite... A Schallz.
+23. Welche Lichterführung ist... A Schallz.
+24. Woran können Sie die Fahr... A Schallz.
+25. Im Winterweg des Schwanen... C Schallz.
+26. Wozu dient die Lichterfüh... C Schallz.
+27. Sie befinden sich mit Ihr... A Schallz.
+28. Sie wollen einem entgegen... C Schallz.
+29. Wie können Sie einem ande... C Schallz.
+30. Ein Fahrzeug in der Näh... A Schallz.
+31. Welche Bedeutung hat dies... A Schffz.
+32. Welche Bedeutung hat dies... C Schffz.
+33. Welche Bedeutung hat dies... C Schffz.
+34. Welche Bedeutung hat dies... C Schffz.
+35. Welche Bedeutung hat dies... A Schffz.
+36. Welche Bedeutung hat dies... C Schffz.
+37. Welche Bedeutung hat dies... A Schffz.
+38. Welche Bedeutung hat dies... C Schffz.
+39. Welche Bedeutung hat dies... A Schffz.
+40. Welche Bedeutung hat dies... C Schffz.
+41. Welche Bedeutung hat dies... A Schffz.
+42. Welche Bedeutung hat dies... A Schffz.
+43. Welche Bedeutung hat dies... A Schffz.
+44. Sie sehen dieses Schifffa... A Schffz.
+45. Gelten gesperrte Wasserfl... A Schffz.
+46. Wie wird nach der Regel a... B Seem.
+47. Wer muss ausweichen? B Seem.
+48. Wie hat sich ein Motorboo... C Seem.
+49. Wie hat sich ein Motorboo... C Seem.
+50. Welche Einschränkungen si... A Seem.
+51. Besteht eine Ausweichpfli... A Seem.
+52. Auf welchen Pegelstand be... A Seem.
+53. Nennen Sie die Untiefen z... A Seem.
+54. Wie verläuft die Nummerie... C Seem.
+55. Wer hat Wegerecht? C Seem.
+56. Welches Fahrzeug hat Wege... B Seem.
+57. Welches Boot hat Wegerech... C Seem.
+58. Was müssen Sie beim Schle... A Nav.
+59. Müssen Stand-up-Paddler p... A Nav.
+60. Wozu verwenden Sie eine... A Nav.
+61. Wie lang müssen Sie die A... B Nav.
+62. Wo dürfen Sie im Bodensee... A Nav.
+63. Wo sind Feuerlöscher an B... A Nav.
+64. Wie kann die Brand- und E... C Nav.
+65. Müssen Sie bei Nebel un... C Nav.
+66. Welche Nachrichten dürfen... C Nav.
+67. Wie können Sie dazu beitr... B Nav.
+68. Wie lang muss eine Ankerl... A Fahrr.
+69. Wo dürfen Sie Wasserski f... A Fahrr.
+70. Wozu dienen am Bodensee S... A Fahrr.
+71. In wie viel Grad wird ein... C Fahrr.
+72. Bei welcher Gradzahl lieg... A Fahrr.
+73. Wie erfolgt die Warnung v... A Fahrr.
+74. Welche Bedeutung hat da... A Fahrr.
+75. Wie wird am Bodensee di... C Fahrr.
+76. Welche Windgeschwindigkei... B Fahrr.
+77. Wie hat sich ein Schiffsf... B Fahrr.
+78. Worauf weist die Starkwin... A Fahrr.
+79. Was verstehen Sie unter e... A Fahrr.
+80. Wie haben sich Vergnügung... A Rhein
+81. Im Sommerweg des Schwanen... B Rhein
+82. Wie viel Brücken überspan... A Rhein
+83. Wie ist die Geschwindigke... A Rhein
+84. Bei einer Engstelle auf d... A Rhein
+85. Auf der Rheinstrecke zwis... C Rhein
+86. Errechnen Sie den Abstand... C Rhein
